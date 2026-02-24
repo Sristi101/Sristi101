@@ -7,12 +7,12 @@ Focused on **Machine Learning** and **Data Science** — working toward building
 
 ## About Me
 
-- 🎓 CSE Undergrad @ **USTC** (2024 – 2028)
-- 🤖 Passionate about **Machine Learning**, Data Science & Deep Learning
-- 💻 Competitive Programmer in **C++**
-- 🏛️ Workshop Coordinator @ **Programming Club USTC** | R&D Coordinator @ **FSET Debate Club USTC**
-- 🌐 Campus Ambassador @ **Futurenation** | Campus Coordinator @ **YUNet** | Club Representative @ **Phitron** | Campus Hero @ **Programming Hero**
-- 📍 Chittagong, Bangladesh
+-  CSE Undergrad @ **USTC** (2024 – 2028)
+-  Passionate about **Machine Learning**, Data Science & Deep Learning
+-  Competitive Programmer in **C++**
+-  Workshop Coordinator @ **Programming Club USTC** | R&D Coordinator @ **FSET Debate Club USTC**
+-  Campus Ambassador @ **Futurenation** | Campus Coordinator @ **YUNet** | Club Representative @ **Phitron** | Campus Hero @ **Programming Hero**
+-  Chittagong, Bangladesh
 
 ---
 
