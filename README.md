@@ -20,7 +20,7 @@ Focused on **Machine Learning** and **Data Science** — working toward building
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -51,4 +51,4 @@ Focused on **Machine Learning** and **Data Science** — working toward building
 
 ---
 
-*"The goal is to turn data into information, and information into insight."*
+*"Building the mathematical intuition and practical depth to engineer intelligent systems — one model at a time."*
