@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Saidur Ahrar Sristi 👋
 
-<!--
-**Sristi101/Sristi101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Engineering Student at University of Science and Technology Chittagong (USTC)**  
+Focused on **Machine Learning** and **Data Science** — working toward building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 CSE Undergrad @ **USTC** (2024 – 2028)
+- 🤖 Passionate about **Machine Learning**, Data Science & Deep Learning
+- 💻 Competitive Programmer in **C++**
+- 🏛️ Workshop Coordinator @ **Programming Club USTC** | R&D Coordinator @ **FSET Debate Club USTC**
+- 🌐 Campus Ambassador @ **Futurenation** | Campus Coordinator @ **YUNet** | Club Representative @ **Phitron** | Campus Hero @ **Programming Hero**
+- 📍 Chittagong, Bangladesh
+
+---
+
+## Top Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| Machine Learning Specialization | DeepLearning.AI |
+| Advanced Learning Algorithms | DeepLearning.AI |
+| CS50x – Introduction to Computer Science | Harvard University |
+
+---
+
+## Guided Projects
+
+| Project | Tools Used |
+|---|---|
+| Diabetes Disease Detection | XGBoost & Neural Networks |
+| Ad Click Prediction | Logistic Regression & XGBoost |
+| Medical Insurance Premium Prediction | Machine Learning |
+| Titanic Survival Prediction | Machine Learning |
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saidur%20Ahrar%20Sristi-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidur-ahrar-sristi)
+
+---
+
+*"The goal is to turn data into information, and information into insight."*
