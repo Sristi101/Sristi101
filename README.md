@@ -22,28 +22,7 @@ Focused on **Machine Learning** and **Data Science** — working toward building
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| Machine Learning Specialization | DeepLearning.AI |
-| Advanced Learning Algorithms | DeepLearning.AI |
-| CS50x – Introduction to Computer Science | Harvard University |
-
----
-
-## Guided Projects
-
-| Project | Tools Used |
-|---|---|
-| Diabetes Disease Detection | XGBoost & Neural Networks |
-| Ad Click Prediction | Logistic Regression & XGBoost |
-| Medical Insurance Premium Prediction | Machine Learning |
-| Titanic Survival Prediction | Machine Learning |
-
----
 
 ## Connect with Me
 
